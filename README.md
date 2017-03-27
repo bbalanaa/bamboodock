@@ -1,2 +1,1 @@
-# bamboodock
-bamboodocker
+Bamboo Docker Example!
